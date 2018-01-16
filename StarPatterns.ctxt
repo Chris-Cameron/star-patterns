@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=StarPatterns
+comment0.text=\r\n\ This\ program\ makes\ little\ pictures\ using\ stars.\ These\ methods\r\n\ are\ so\ much\ fun\ to\ write.\r\n\r\n\ (Look\ in\ the\ StarInstructions.txt\ file\ to\ see\ what\ each\ method\r\n\ \ should\ draw.)\r\n\r\n\ @author\ \ [\ \ \ \ \ \ \ \ \ \ ]\ <--\ you\r\n\ @version\ [\ \ \ \ \ \ \ \ \ \ ]\ <--\ today\r\n
+comment1.params=h\ w
+comment1.target=void\ starGrid(int,\ int)
+comment2.params=h\ w
+comment2.target=void\ starBox(int,\ int)
+comment3.params=h
+comment3.target=void\ starX(int)
+comment4.params=h
+comment4.target=void\ starZ(int)
+comment5.params=h
+comment5.target=void\ starXBox(int)
+comment6.params=h\ w
+comment6.target=void\ twoStarBoxes(int,\ int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
